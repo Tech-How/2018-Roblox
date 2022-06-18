@@ -19,6 +19,7 @@ The year of 2018 was when I played Roblox the most. Being hardly played anymore,
 - Sidebar icons have a low contrast
 - Some cards may not be properly outlined
 - Gray square present on avatar shop cards, as well as some others
+- Roblox logo missing on starting game popup
 
 
 ## Manual Installation Instructions
